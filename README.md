@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ivanovic11
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate with Googlr
+- 💞️ I’m looking to collaborate with Google
 - 📫 How to reach me 09025715381, 09068508951
 
 <!---
